@@ -1,0 +1,5 @@
+	 units	offspring attack   birth  substrate	deplete subclass parasite	move
+redscale DD	20	  NA	   gravid orange	100	  host     NA		crawler
+aphytis	 hr	redscale  redscale NA	  orange	48	  adult    ecto		adult
+encarsia hr	redscale  redscale NA	  orange	12	  adult    endo		adult
+orange	 NA	NA	  NA	   NA	  NA		NA	  NA       NA		NA

@@ -1,0 +1,10 @@
+Package: redscale
+Version: 0.9
+Date: 2002/11/14
+Author: Brian S. Yandell <yandell@stat.wisc.edu>
+Maintainer: Brian S. Yandell <yandell@stat.wisc.edu>
+Title: Data Tables for Redscale-Parasitoid Modelling
+Description: Host-parasitoid settings for QPE event-driven individual-based simulation modeling system.
+License: GPL (>=2)
+URL: http://www.stat.wisc.edu/~yandell/ewing
+RoxygenNote: 7.2.1

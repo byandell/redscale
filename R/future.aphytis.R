@@ -1,0 +1,33 @@
+#' Future Events Table for Species in Simulation
+#' 
+#' Contains life history events for QPE simulation. These are normally
+#' internalized via \code{init.simulation}.
+#' 
+#' @name future.aphytis
+#' @aliases future.aphytis future.comperiella future.encarsia future.redscale
+#' @format Data frame with one row per stage, except in the case of competing
+#' risks. Time is in appropriate units for species as set in \code{organism.features}.
+#' 
+#' \describe{The columns of \code{future.aphytis} are:
+#'   \item{current}{current stage} 
+#'   \item{future}{potential future event}
+#'   \item{fid}{future event ID, corresponds to row when this is current stage}
+#'   \item{time}{mean time to future event}
+#'   \item{pch}{plot character}
+#'   \item{color}{plot color}
+#'   \item{ageclass}{class of stage (see \code{organism.features}}
+#'   \item{event}{event class}
+#'   \item{init}{current stage weighting for initialization}
+#' }
+#' @seealso \code{\link[ewing]{init.simulation}},\code{\link[ewing]{future.events}}
+#' @references \url{https://www.stat.wisc.edu/~yandell/ewing}
+#' @source Lisa D. Forster and Robert F. Luck, Entomology, UC Riverside.
+#' @keywords{datasets}
+#' @examples
+#' 
+#' data(future.aphytis)
+#' data(future.comperiella)
+#' data(future.encarsia)
+#' data(future.redscale)
+#' 
+NULL

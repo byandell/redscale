@@ -1,0 +1,16 @@
+              ovip feed offspring male
+crawler        0.0  0.0	0		0
+first.instar   3.0  3.0	1		1
+first.molt     3.0  3.0	1		1
+second.1       2.0  2.0	1		1
+second.2       2.0  2.0	1		1
+second.3       3.0  3.0	1		1
+second.molt    4.0  4.0	1		0
+third.1        5.0  5.0	1		0
+third.2        5.0  5.0	1		0
+third.3        5.0  5.0	1		0
+virgin         3.5  3.5	1		0
+gravid         0.0  0.0	0		0
+death          0.0  0.0	0		0
+male           0.0  0.0	0		0
+female         0.0  0.0	0		0
